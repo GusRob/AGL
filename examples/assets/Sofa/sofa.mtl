@@ -1,0 +1,15 @@
+# Blender MTL File: 'sofa5.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 311.041297
+Ka 1.000000 1.000000 1.000000
+Kd 0.120088 0.033627 0.009688
+Ks 0.310909 0.310909 0.310909
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.900000 D:\\blender_projects\\sofa\\Default Textur\\4096\\bake_low_Material.001_Normal.png
+map_Kd D:\\blender_projects\\sofa\\Default Textur\\4096\\bake_low_Material.001_BaseColor.png
+refl D:\\blender_projects\\sofa\\Default Textur\\4096\\bake_low_Material.001_Metallic.png
